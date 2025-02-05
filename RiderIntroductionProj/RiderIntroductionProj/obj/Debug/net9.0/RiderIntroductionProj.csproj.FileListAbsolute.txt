@@ -1,0 +1,14 @@
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/bin/Debug/net9.0/RiderIntroductionProj
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/bin/Debug/net9.0/RiderIntroductionProj.deps.json
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/bin/Debug/net9.0/RiderIntroductionProj.runtimeconfig.json
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/bin/Debug/net9.0/RiderIntroductionProj.dll
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/bin/Debug/net9.0/RiderIntroductionProj.pdb
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.GeneratedMSBuildEditorConfig.editorconfig
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.AssemblyInfoInputs.cache
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.AssemblyInfo.cs
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.csproj.CoreCompileInputs.cache
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.dll
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/refint/RiderIntroductionProj.dll
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.pdb
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/RiderIntroductionProj.genruntimeconfig.cache
+/home/pabusaleh/RiderProjects/RiderIntroductionProj/RiderIntroductionProj/obj/Debug/net9.0/ref/RiderIntroductionProj.dll
